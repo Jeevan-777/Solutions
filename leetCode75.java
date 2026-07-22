@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution{
     public static void sort(int nums[]){
         int low=0;
